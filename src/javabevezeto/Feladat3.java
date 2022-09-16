@@ -15,7 +15,5 @@ public class Feladat3 {
         System.out.printf("A szám egész része: %d", egeszresz);
         System.out.println();
         System.out.printf("A szám törtrésze: %f", valos-egeszresz);
-
-
     }
 }

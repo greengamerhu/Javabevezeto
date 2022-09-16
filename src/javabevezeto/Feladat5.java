@@ -24,8 +24,8 @@ public class Feladat5 {
             System.out.println("hiba: rossz előjelet adtál meg");
         };
         if (a == b) {
-            System.out.println();
-            System.out.println("Ez egy Négyzet");
+                System.out.println();
+                System.out.println("Ez egy Négyzet");
         }
     }
 }

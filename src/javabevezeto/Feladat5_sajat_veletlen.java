@@ -2,7 +2,7 @@ package javabevezeto;
 
 import java.util.Scanner;
 
-public class feladat6 {
+public class Feladat5_sajat_veletlen {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Kérem adja meg a téglaplap 'a' oldalát");
