@@ -7,7 +7,7 @@ public class Feladat13 {
         int gondolt =  1 + (int)(Math.random() * ((100 - 1) + 1));
         System.out.print("Gondoltam egy számra 1-100 között:  ");
         Scanner sc = new Scanner(System.in);
-        int tipp = sc.nextInt();
+            int tipp = sc.nextInt();
         while (gondolt != tipp) {
             if (tipp > gondolt) {
                 System.out.println("A szám kissebb");
